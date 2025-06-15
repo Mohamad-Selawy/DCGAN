@@ -7,3 +7,5 @@ Generative Adversarial Networks (GANs) are one of the most interesting ideas in 
 
 During training, the generator progressively becomes better at creating images that look real, while the discriminator becomes better at telling them apart. The process reaches equilibrium when the discriminator can no longer distinguish real images from fakes.
 ![image](https://github.com/user-attachments/assets/4c3f9861-7773-41aa-b3fc-dc4fadface70)
+
+Create an animated gif using the images saved during training.
