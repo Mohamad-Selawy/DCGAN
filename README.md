@@ -9,3 +9,4 @@ During training, the generator progressively becomes better at creating images t
 ![image](https://github.com/user-attachments/assets/4c3f9861-7773-41aa-b3fc-dc4fadface70)
 
 Create an animated gif using the images saved during training.
+![image](https://github.com/Mohamad-Selawy/DCGAN/blob/main/Gif_image.gif)
