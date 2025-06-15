@@ -3,5 +3,4 @@ This project focuses on generating cartoon-style facial images by implementing a
 
 # What are GANs?
 Generative Adversarial Networks (GANs) are one of the most interesting ideas in computer science today. Two models are trained simultaneously by an adversarial process. A generator ("the artist") learns to create images that look real, while a discriminator ("the art critic") learns to tell real images apart from fakes.
-
-
+![image](https://github.com/user-attachments/assets/52db89be-3ff4-4dfe-b3df-a2044ef2571f)
